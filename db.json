@@ -1,0 +1,354 @@
+[
+  {
+    "ref": "88ac39a3-0d2e-40e4-ba49-24339126d490",
+    "keyword": "02023c00504c4e030aff2c0ba0f41921",
+    "answer": "Sbsbjs",
+    "options": {},
+    "from": "573204752553",
+    "refSerialize": "71cb29d1843c8d97945c90e6c62b5a29"
+  },
+  {
+    "ref": "ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be",
+    "keyword": "key_2fd217c5-d5f3-433c-a342-51fa7b05da8d",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f6213ca9f35aa57f7edc082a18a509b6",
+    "from": "573204752553"
+  },
+  {
+    "ref": "531f0f93-b5bf-4e8e-87b6-ecb6b558caec",
+    "keyword": "f6213ca9f35aa57f7edc082a18a509b6",
+    "answer": "Sbsbsj",
+    "options": {},
+    "from": "573204752553",
+    "refSerialize": "daa7b41355c9d7e057b35c5e87fe207f"
+  },
+  {
+    "ref": "b2ec733b-2ebe-4fef-9863-3b80d6f4d813",
+    "keyword": null,
+    "answer": "[en] - Sbsbjs",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573204752553",
+    "refSerialize": "e8a3ad0a155ce6965282754de1d45a96"
+  },
+  {
+    "ref": "ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be",
+    "keyword": "key_2fd217c5-d5f3-433c-a342-51fa7b05da8d",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f6213ca9f35aa57f7edc082a18a509b6",
+    "from": "573204752553"
+  },
+  {
+    "ref": "90652ab8-920c-4191-b6b9-bc4b1e935e0f",
+    "keyword": "f6213ca9f35aa57f7edc082a18a509b6",
+    "answer": "Sbbs",
+    "options": {},
+    "from": "573204752553",
+    "refSerialize": "9d5ecd63ff42cd654494e226d3384df4"
+  },
+  {
+    "ref": "ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be",
+    "keyword": "key_2fd217c5-d5f3-433c-a342-51fa7b05da8d",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f6213ca9f35aa57f7edc082a18a509b6",
+    "from": "573204752553"
+  },
+  {
+    "ref": "1d51ee4d-21b0-4f1c-aa7e-cf4903848f4c",
+    "keyword": null,
+    "answer": "[en] - Sbsbsj",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573204752553",
+    "refSerialize": "166570370f20ace425789229833cc306"
+  },
+  {
+    "ref": "1ee4d603-e684-4f08-8e53-8421fd6232cc",
+    "keyword": null,
+    "answer": "[en] - Sbbs",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573204752553",
+    "refSerialize": "e597db5e0715388cc00ea3beeea85db9"
+  },
+  {
+    "ref": "23264c01-af8d-4226-9623-b9e8cd2aefcc",
+    "keyword": "f6213ca9f35aa57f7edc082a18a509b6",
+    "answer": "Se conmemora el fallecimiento de San Patricio, quien en su adolescencia fue secuestrado y forzado a trabajar como esclavo cuidando rebaños",
+    "options": {},
+    "from": "573204752553",
+    "refSerialize": "16285a6a4cd5a14f081d946d32129771"
+  },
+  {
+    "ref": "ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be",
+    "keyword": "key_2fd217c5-d5f3-433c-a342-51fa7b05da8d",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f6213ca9f35aa57f7edc082a18a509b6",
+    "from": "573204752553"
+  },
+  {
+    "ref": "1730a726-7d34-4125-bfba-ab6d872780b4",
+    "keyword": null,
+    "answer": "[en] - The death of Saint Patrick is commemorated, who was kidnapped in his adolescence and forced to work as a slave tending flocks.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573204752553",
+    "refSerialize": "0b0c5b6a431112b91793ce836e03ce5e"
+  },
+  {
+    "ref": "ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be",
+    "keyword": "key_2fd217c5-d5f3-433c-a342-51fa7b05da8d",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f6213ca9f35aa57f7edc082a18a509b6",
+    "from": "573006786978"
+  },
+  {
+    "ref": "5d541985-382d-43d4-8ce4-9828eb7b5947",
+    "keyword": null,
+    "answer": "[en] - Hahaha it was for you to accompany me to buy an iPad",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573006786978",
+    "refSerialize": "20e4dfd9a79baccc1a2a1010b42ca684"
+  },
+  {
+    "ref": "eaf882d1-9ece-4ac0-b5ac-0ff7d59aea52",
+    "keyword": "f6213ca9f35aa57f7edc082a18a509b6",
+    "answer": "Omg",
+    "options": {},
+    "from": "573006786978",
+    "refSerialize": "e58620ff211f27e19b4b00475d21c0a7"
+  },
+  {
+    "ref": "ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be",
+    "keyword": "key_2fd217c5-d5f3-433c-a342-51fa7b05da8d",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f6213ca9f35aa57f7edc082a18a509b6",
+    "from": "573006786978"
+  },
+  {
+    "ref": "c505b77a-1aaa-40ce-847b-33b498b8c72a",
+    "keyword": null,
+    "answer": "[en] - Omg",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573006786978",
+    "refSerialize": "f30e65575253632f9cbd2999011c8200"
+  },
+  {
+    "ref": "4fec18a1-2f44-4e11-98ac-c5b0e88bb5ae",
+    "keyword": "f6213ca9f35aa57f7edc082a18a509b6",
+    "answer": "Traducción instantánea",
+    "options": {},
+    "from": "573006786978",
+    "refSerialize": "65ae1c47ade87b69d670462e0a75a7de"
+  },
+  {
+    "ref": "ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be",
+    "keyword": "key_2fd217c5-d5f3-433c-a342-51fa7b05da8d",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f6213ca9f35aa57f7edc082a18a509b6",
+    "from": "573006786978"
+  },
+  {
+    "ref": "fe79f1ef-8f14-428d-ac5f-edd3cd9a291d",
+    "keyword": null,
+    "answer": "[en] - Instant translation",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573006786978",
+    "refSerialize": "b3193257965f9164e6e3b3a4119b6aca"
+  },
+  {
+    "ref": "a66b4826-531a-4faa-b616-cf1a20fb545b",
+    "keyword": "f6213ca9f35aa57f7edc082a18a509b6",
+    "answer": "Que estás haciendo en tu wpp",
+    "options": {},
+    "from": "573006786978",
+    "refSerialize": "ee9ab999fb50633063d16f603c40ea24"
+  },
+  {
+    "ref": "ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be",
+    "keyword": "key_2fd217c5-d5f3-433c-a342-51fa7b05da8d",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f6213ca9f35aa57f7edc082a18a509b6",
+    "from": "573006786978"
+  },
+  {
+    "ref": "f680b435-99cf-451f-8529-301da4cd0e62",
+    "keyword": null,
+    "answer": "[en] - What are you doing on your WhatsApp?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573006786978",
+    "refSerialize": "f8da0938a875f3d25febec9335dccfdd"
+  },
+  {
+    "ref": "950a161a-da92-4b33-89e4-0182c8c73488",
+    "keyword": "f6213ca9f35aa57f7edc082a18a509b6",
+    "answer": "Te voy a utilizar de traductor",
+    "options": {},
+    "from": "573006786978",
+    "refSerialize": "e9f58ff815043e72cbf42942b8d4dd27"
+  },
+  {
+    "ref": "ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be",
+    "keyword": "key_2fd217c5-d5f3-433c-a342-51fa7b05da8d",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f6213ca9f35aa57f7edc082a18a509b6",
+    "from": "573006786978"
+  },
+  {
+    "ref": "85169b9c-2671-44bf-8a7e-e434e3abc817",
+    "keyword": null,
+    "answer": "[en] - I am going to use you as a translator.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573006786978",
+    "refSerialize": "7ebb8d5e356e18bcd5a544e2a440e55d"
+  }
+]

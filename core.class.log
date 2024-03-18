@@ -1,0 +1,342 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573204752553@s.whatsapp.net',
+    fromMe: false,
+    id: '81E1B747A178F4856268D671F100926B',
+    participant: undefined
+  },
+  messageTimestamp: 1710704290,
+  pushName: 'Aldair Banguera 😎',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sbsbjs',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sbsbjs',
+  from: '573204752553'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573204752553@s.whatsapp.net',
+    fromMe: false,
+    id: '10CCD2FE993179B18BF9BCCB5D7BB6AC',
+    participant: undefined
+  },
+  messageTimestamp: 1710704291,
+  pushName: 'Aldair Banguera 😎',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sbsbsj',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sbsbsj',
+  from: '573204752553'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be',
+  keyword: 'key_2fd217c5-d5f3-433c-a342-51fa7b05da8d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f6213ca9f35aa57f7edc082a18a509b6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573204752553@s.whatsapp.net',
+    fromMe: false,
+    id: '50315096951D4E42F65690F259941A25',
+    participant: undefined
+  },
+  messageTimestamp: 1710704292,
+  pushName: 'Aldair Banguera 😎',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sbbs',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sbbs',
+  from: '573204752553'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be',
+  keyword: 'key_2fd217c5-d5f3-433c-a342-51fa7b05da8d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f6213ca9f35aa57f7edc082a18a509b6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be',
+  keyword: 'key_2fd217c5-d5f3-433c-a342-51fa7b05da8d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f6213ca9f35aa57f7edc082a18a509b6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573204752553@s.whatsapp.net',
+    fromMe: false,
+    id: '5C5BE0227B1D6D661B3D5CB72EDF2DB8',
+    participant: undefined
+  },
+  messageTimestamp: 1710704340,
+  pushName: 'Aldair Banguera 😎',
+  broadcast: false,
+  message: Message {
+    conversation: 'Se conmemora el fallecimiento de San Patricio, quien en su adolescencia fue secuestrado y forzado a trabajar como esclavo cuidando rebaños',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Se conmemora el fallecimiento de San Patricio, quien en su adolescencia fue secuestrado y forzado a trabajar como esclavo cuidando rebaños',
+  from: '573204752553'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be',
+  keyword: 'key_2fd217c5-d5f3-433c-a342-51fa7b05da8d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f6213ca9f35aa57f7edc082a18a509b6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573006786978@s.whatsapp.net',
+    fromMe: false,
+    id: '3A779CA648812A65E833',
+    participant: undefined
+  },
+  messageTimestamp: 1710704726,
+  pushName: 'Melissa Botero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ajajajaj era para que me acompañaras a comprar un iPad',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ajajajaj era para que me acompañaras a comprar un iPad',
+  from: '573006786978'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be',
+  keyword: 'key_2fd217c5-d5f3-433c-a342-51fa7b05da8d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f6213ca9f35aa57f7edc082a18a509b6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573006786978@s.whatsapp.net',
+    fromMe: false,
+    id: '3AADFC1D126B5069A2E5',
+    participant: undefined
+  },
+  messageTimestamp: 1710704741,
+  pushName: 'Melissa Botero',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Omg', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Omg',
+  from: '573006786978'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be',
+  keyword: 'key_2fd217c5-d5f3-433c-a342-51fa7b05da8d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f6213ca9f35aa57f7edc082a18a509b6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573006786978@s.whatsapp.net',
+    fromMe: false,
+    id: '3A312627D2AA8ECEE890',
+    participant: undefined
+  },
+  messageTimestamp: 1710704745,
+  pushName: 'Melissa Botero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Traducción instantánea',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Traducción instantánea',
+  from: '573006786978'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be',
+  keyword: 'key_2fd217c5-d5f3-433c-a342-51fa7b05da8d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f6213ca9f35aa57f7edc082a18a509b6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573006786978@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6C1F960862803624C2',
+    participant: undefined
+  },
+  messageTimestamp: 1710704752,
+  pushName: 'Melissa Botero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que estás haciendo en tu wpp',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que estás haciendo en tu wpp',
+  from: '573006786978'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be',
+  keyword: 'key_2fd217c5-d5f3-433c-a342-51fa7b05da8d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f6213ca9f35aa57f7edc082a18a509b6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573006786978@s.whatsapp.net',
+    fromMe: false,
+    id: '3A680C0600B0087C2513',
+    participant: undefined
+  },
+  messageTimestamp: 1710704765,
+  pushName: 'Melissa Botero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Te voy a utilizar de traductor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Te voy a utilizar de traductor',
+  from: '573006786978'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc9d1a64-0169-4ad8-b3de-d66e05dad9be',
+  keyword: 'key_2fd217c5-d5f3-433c-a342-51fa7b05da8d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f6213ca9f35aa57f7edc082a18a509b6'
+}
